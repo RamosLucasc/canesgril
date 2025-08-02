@@ -1,0 +1,15 @@
+asgiref
+certifi
+charset-normalizer
+cloudinary
+Django
+django-cloudinary-storage
+idna
+pillow
+psycopg2
+python-dotenv
+requests
+six
+sqlparse
+tzdata
+urllib3
